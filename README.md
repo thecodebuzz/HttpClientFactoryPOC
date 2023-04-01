@@ -5,4 +5,4 @@ Use HTTPClientfactory to create HTTPClient request
  Typed HTTP client
 For more details visit,
 
-# https://thecodebuzz.com/httpclient-using-httpclientfactory-asp-net-core/
+# https://www.thecodebuzz.com/httpclient-using-httpclientfactory-asp-net-core/
